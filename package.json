@@ -1,0 +1,16 @@
+{
+  "name": "pdf2Text",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jecshcier",
+  "license": "ISC",
+  "dependencies": {
+    "fs-extra": "^4.0.2",
+    "pdf-textstring": "0.0.7",
+    "pdf2json": "^1.1.7"
+  }
+}
